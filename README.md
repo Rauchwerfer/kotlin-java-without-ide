@@ -3,5 +3,7 @@
 Needs paths_config.env with paths like:
 ```
 LOCAL_JAVA_HOME="/c/Programs/Java/jdk-23.0.1"  
-LOCAL_KOTLIN_HOME="/c/kotlinc" 
+LOCAL_KOTLIN_HOME="/c/kotlinc"
+LOCAL_CLASS_PATH="bin"
+LOCAL_JAR_OUTPUT_PATH="out" 
 ```
