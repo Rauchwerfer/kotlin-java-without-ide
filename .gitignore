@@ -1,0 +1,9 @@
+draft.txt
+
+out/
+bin/
+
+build.bat
+run.bat
+
+paths_config.env
